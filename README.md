@@ -1,2 +1,2 @@
-# PracticalMachineLearning
-Practical Machine Learning_Local
+# PracticalMachineLearning/DeepLearning
+Practical Machine Learning_Local/ DeepLearning
